@@ -1,0 +1,11 @@
+population,response_label,n,mean,sd,median,q1,q3
+b_cell,Non-responder,975,9.996,3.118,9.788,7.809,11.816
+b_cell,Responder,993,9.798,3.323,9.432,7.297,11.866
+cd8_t_cell,Non-responder,975,24.944,4.417,24.603,21.861,27.861
+cd8_t_cell,Responder,993,24.882,4.914,24.728,21.361,28.014
+cd4_t_cell,Non-responder,975,29.902,4.824,29.658,26.494,33.183
+cd4_t_cell,Responder,993,30.538,5.208,30.221,27.011,33.95
+nk_cell,Non-responder,975,15.073,3.767,14.799,12.414,17.562
+nk_cell,Responder,993,14.841,4.132,14.509,11.76,17.298
+monocyte,Non-responder,975,20.084,4.011,19.942,17.199,22.826
+monocyte,Responder,993,19.942,4.642,19.61,16.711,22.818
